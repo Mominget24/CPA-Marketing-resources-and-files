@@ -1,0 +1,2 @@
+Date,Campaign_Label,Source_Channel,Network,Offer_Name,GEO,Action_Type,Payout_USD,Impressions,Clicks_to_LP,Leads_Conversions,Approved_Conversions,Reversals,Ad_Spend_USD,Gross_Payout_USD,Fees_USD,Net_Profit_USD,EPC_USD,LP_CR_Pct,Approval_Rate_Pct,ROI_Pct,Notes_Next_Action
+2026-09-24,EXAMPLE-pin-health-01,Pinterest,CPAGrip,Example US Email Submit,US,email submit,2.00,0,37,6,5,0,0.00,10.00,0.00,10.00,0.27,16.2,83.3,,EXAMPLE ROW - replace with real data; log every day per campaign
